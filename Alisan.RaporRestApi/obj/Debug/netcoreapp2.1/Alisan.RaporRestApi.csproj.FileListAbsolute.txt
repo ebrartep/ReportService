@@ -1,0 +1,4 @@
+C:\WebApi\Alisan.RaporRestApi\Alisan.RaporRestApi\obj\Debug\netcoreapp2.1\Alisan.RaporRestApi.csprojAssemblyReference.cache
+C:\WebApi\Alisan.RaporRestApi\Alisan.RaporRestApi\obj\Debug\netcoreapp2.1\Alisan.RaporRestApi.AssemblyInfoInputs.cache
+C:\WebApi\Alisan.RaporRestApi\Alisan.RaporRestApi\obj\Debug\netcoreapp2.1\Alisan.RaporRestApi.AssemblyInfo.cs
+C:\WebApi\Alisan.RaporRestApi\Alisan.RaporRestApi\obj\Debug\netcoreapp2.1\Alisan.RaporRestApi.csproj.CoreCompileInputs.cache
