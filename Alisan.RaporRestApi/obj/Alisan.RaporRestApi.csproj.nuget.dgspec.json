@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WebApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj": {}
+    "C:\\GitProje\\Servis\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj": {}
   },
   "projects": {
-    "C:\\WebApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj": {
+    "C:\\GitProje\\Servis\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WebApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj",
+        "projectUniqueName": "C:\\GitProje\\Servis\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj",
         "projectName": "Alisan.RaporRestApi",
-        "projectPath": "C:\\WebApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj",
-        "packagesPath": "C:\\Users\\Ebrar\\.nuget\\packages\\",
-        "outputPath": "C:\\WebApi\\Alisan.RaporRestApi\\Alisan.RaporRestApi\\obj\\",
+        "projectPath": "C:\\GitProje\\Servis\\Alisan.RaporRestApi\\Alisan.RaporRestApi.csproj",
+        "packagesPath": "C:\\Users\\Ademk\\.nuget\\packages\\",
+        "outputPath": "C:\\GitProje\\Servis\\Alisan.RaporRestApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ebrar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
