@@ -50,6 +50,7 @@ namespace Alisan.RaporRestApi.Business
                         route = Convert.ToString(item["RaporRouteAdi"]),
                         RaporId = Convert.ToString(item["RaporID"]),
                         GroupId = Convert.ToString(item["GrupID"]),
+                        id = Convert.ToString(item["ID"]),
 
                     });
                    

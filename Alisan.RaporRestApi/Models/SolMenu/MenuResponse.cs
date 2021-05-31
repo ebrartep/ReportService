@@ -24,7 +24,6 @@ namespace Alisan.RaporRestApi.Models.SolMenu
         }
         public string GroupAdi { get; set; }
 
-        public string GroupRouteAdi { get; set; }
 
         public List<RaporItem> RaporItems { get; set; }
     }
@@ -32,6 +31,7 @@ namespace Alisan.RaporRestApi.Models.SolMenu
     {
         public string title { get; set; }
         public string route { get; set; }
+        public string id { get; set; }
 
         public string RaporId { get; set; }
         public string GroupId { get; set; }
